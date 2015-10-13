@@ -1,0 +1,2 @@
+# tests
+OpenEduRu API tests
